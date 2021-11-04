@@ -210,5 +210,30 @@
         padding-top: 50px;
         padding-left: 270px;
     }
+    #grid{
+        grid-template-columns: 420px ;
+        grid-row: 360px ;
+        grid-gap: 5px;
+        margin-left: -15px;
+    }
+    .butt{
+        
+        padding: 10px 27px;
+        text-align: center;
+        font-size: 16px;
+         background-color:#34495e;
+        margin-left: 0%;
+        margin-right: 15px;
+    }
+    .out{
+        padding: 10px 27px;
+        text-align: center;
+        font-size: 16px;
+        color: #34495e;
+         background-color:white;
+        margin-left: 0%;
+        margin-right: 15px;
+
+    }
 
 }
