@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import "./index.css";
 import Poems from './Poems';
-import { render } from 'react-dom';
-import Def from './Def';
 import Quotes from './Quotes';
 import Microtale from './Quotes';
 

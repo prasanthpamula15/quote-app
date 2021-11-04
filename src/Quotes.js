@@ -10,7 +10,7 @@ export default class Microtale extends Component {
                 <div id="grid">
                
                   <div className="grid_item">
-                   <div ><img className="card" ></img></div>
+                   <div ><img className="card" alt="logo"></img></div>
                       <div className="details">
                       <span class="font"> <BsHeart size="25px" /></span>
                       <span class="font"> <FaShareAlt size="25px" /></span>

@@ -1,11 +1,9 @@
 
-import ReactDOM from 'react-dom';
 import Content from './Content.js';
 import "./index.css";
 import logo from "./img/profile.jpg";
 import {IoIosArrowDropupCircle} from 'react-icons/io'
 import {IoIosArrowDropdownCircle} from 'react-icons/io'
-
 import React, { Component } from 'react'
 
 export default class App extends Component {
@@ -34,12 +32,12 @@ export default class App extends Component {
     </head>
 <body>
     <div id="header">
-    <img src={logo} id="img" />
+    <img src={logo} alt="logo" id="img" />
      <p id="name">Keerthana Suresh</p>
       <p id="info">-A writer and a poet</p>
     </div>
     <a class="top-down" href="#bac"> <IoIosArrowDropupCircle class="top-down"  /> </a><br/><br/>
-    <a class="top-down" > <IoIosArrowDropdownCircle class="top-down"/> </a>
+    <a class="top-down" href="#bac"> <IoIosArrowDropdownCircle class="top-down"/> </a>
    <div id="category">
      <Content/>
      </div>   
@@ -48,7 +46,7 @@ export default class App extends Component {
 </body>
 </div>
  
-      
+
     )
   }
 }

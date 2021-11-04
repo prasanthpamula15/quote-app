@@ -28,49 +28,49 @@ import logo from "./img/profile.jpg";
             <div> <div id="grid">
                
             <div className="grid_item">
-                <div ><img className="card" src={image.logo1}></img></div>
+                <div ><img className="card" alt="logo" src={image.logo1}></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
+                <img src={logo} alt="logo" className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
                 <a class="font" href={image.logo2} download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
             </div>
             <div className="grid_item">
-                <div ><img className="card" src={image.logo2}></img></div>
+                <div ><img className="card" alt="logo" src={image.logo2}></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
+                <img src={logo} alt="logo" className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
                 <a class="font" href={image.logo3} download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
             </div>
             <div className="grid_item">
-                <div ><img className="card" src={image.logo3}></img></div>
+                <div ><img className="card" alt="logo" src={image.logo3}></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
+                <img src={logo} logo="none" alt="logo" className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
                 <a class="font" href={image.logo4} download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
             </div>
             <div className="grid_item">
-                <div ><img className="card" src={image.logo4}></img></div>
+                <div ><img className="card"  alt="none" src={image.logo4}></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
-                <a class="font" href={image.logo5} download> <FaDownload size="30px" color="black" className="download"/></a>
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="font" href={image.logo5} alt="logo" download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
             </div>
             <div className="grid_item">
-                <div ><img className="card" src={image.logo5}></img></div>
+                <div ><img className="card" src={image.logo5} alt="logo"></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
+                <img src={logo} className="card-acc" alt="logo" /><p className="acc-name">Keerthana_Suresh</p>
                 <a class="font" href={image.logo7} download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
             </div>
             <div className="grid_item">
-                <div ><img className="card" src={image.logo7}></img></div>
+                <div ><img className="card" src={image.logo7} alt="logo"></img></div>
                 <div className="details">
-                <img src={logo} className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
                 <a class="font" href={image.logo7} download> <FaDownload size="30px" color="black" className="download"/></a>
                 </div>
             
