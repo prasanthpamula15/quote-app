@@ -82,7 +82,7 @@
 }
 #grid{
     display: grid;
-    grid-template-columns: auto auto auto ;
+    grid-template-columns: auto auto auto;
     grid-row: 360px 360px 360px ;
     
     padding-top: 50px;
@@ -91,6 +91,7 @@
     
 
 }
+
 .grid_item{
   
     border: 2px solid white;
@@ -120,12 +121,7 @@
     background-color:#ecf0f1;
     margin-top: 0%;
 }
-.font{
-    position: relative;
-    margin-top: 0%;
-  padding-right: 10px;
-  left: 20px;
-}
+
 .butt{
  text-decoration: none;
  border:none;
@@ -177,19 +173,21 @@
     font-family:'Archivo Narrow' ;
     display: inline;
     margin-left: 5px;
+    margin-right: 170px;
     margin-top: -22px;
     top: -13px;
     font-size: 25px;
 }
-.download{
-    margin-left: 120px;
-}
+
 .top-down{
     position: fixed;
    width:30px;
    height: 30px;
    margin-left: 10px;
    color: #34495e;
+}
+#cat-select{
+    width: auto;
 }
 @media screen and (max-width:650px){
     #header{
@@ -234,6 +232,25 @@
         margin-left: 0%;
         margin-right: 15px;
 
+    }
+    @media screen and (max-width:370px) {
+        #img{
+            margin-top: 370px;
+            width: 90px;
+            height: 90px;
+            margin-left: 5PX;
+           
+        
+        }
+        #name{
+            padding-left: 100px;
+            padding-top: 90px;
+            font-size: 35px;
+        }
+        #info{
+           padding-left: 190px;
+           font-size: 20px;
+        }
     }
 
 }

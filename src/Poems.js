@@ -31,7 +31,7 @@ import logo from "./img/profile.jpg";
                 <div ><img className="card" alt="logo" src={image.logo1}></img></div>
                 <div className="details">
                 <img src={logo} alt="logo" className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
-                <a class="font" href={image.logo2} download> <FaDownload size="30px" color="black" className="download"/></a>
+                <a className="font" href={image.logo2} download> <FaDownload size="30px" color="black"/></a>
                 </div>
             
             </div>
@@ -39,8 +39,9 @@ import logo from "./img/profile.jpg";
                 <div ><img className="card" alt="logo" src={image.logo2}></img></div>
                 <div className="details">
                 <img src={logo} alt="logo" className="card-acc" /><p className="acc-name">Keerthana_Suresh</p>
-                <a class="font" href={image.logo3} download> <FaDownload size="30px" color="black" className="download"/></a>
+                <a class="font" href={image.logo3} download> <FaDownload size="30px" color="black" /></a>
                 </div>
+               
             
             </div>
             <div className="grid_item">
