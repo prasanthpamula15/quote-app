@@ -191,7 +191,7 @@
    margin-left: 10px;
    color: #34495e;
 }
-@media screen and (max-width:530px){
+@media screen and (max-width:650px){
     #header{
       width:auto;
      
@@ -237,11 +237,4 @@
     }
 
 }
-@media screen and (min-width:531px) and (max-width:750px)
 
-{
-#grid{
-    grid-template-columns: auto auto;
-    grid-row: 360px ;
-}
-}
