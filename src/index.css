@@ -15,7 +15,7 @@
  #header{
      font-family: 'Archivo Narrow', ;
      font-size: 50px;
-     width: 100%;
+     width: auto;
      height: 600px;
      color: white;
      background-image: url("./img/img1.jpg");
@@ -82,7 +82,7 @@
 }
 #grid{
     display: grid;
-    grid-template-columns: 440px 440px 440px ;
+    grid-template-columns: auto auto auto ;
     grid-row: 360px 360px 360px ;
     
     padding-top: 50px;
@@ -211,7 +211,7 @@
         padding-left: 270px;
     }
     #grid{
-        grid-template-columns: 420px ;
+        grid-template-columns: auto;
         grid-row: 360px ;
         grid-gap: 5px;
         margin-left: -15px;
