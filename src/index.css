@@ -191,7 +191,7 @@
    margin-left: 10px;
    color: #34495e;
 }
-@media screen and (max-width:480px){
+@media screen and (max-width:500px){
     #header{
       width:100%;
      
