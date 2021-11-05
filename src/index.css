@@ -193,7 +193,7 @@
 }
 @media screen and (max-width:530px){
     #header{
-      width:100%;
+      width:auto;
      
     }
     #img{
@@ -236,4 +236,12 @@
 
     }
 
+}
+@media screen and (min-width:531px) and (max-width:750px)
+
+{
+#grid{
+    grid-template-columns: auto auto;
+    grid-row: 360px ;
+}
 }
