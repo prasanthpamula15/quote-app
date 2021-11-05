@@ -254,6 +254,24 @@
         .acc-name{
             margin-right: 30px;
         }
+        
+        .butt{
+ 
+       color: white;
+       padding: 10px 25px;
+
+       font-size: 10px;
+ 
+      margin: 80px 15px;
+        }
+        .out{
+            padding: 10px 25px;
+            font-size: 10px;
+            margin: auto;
+            
+            
+        }
+        
 
     }
     @media screen and (max-width:365px){
