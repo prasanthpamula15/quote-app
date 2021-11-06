@@ -1,0 +1,116 @@
+@media screen and (max-width:820px) {
+    #header{
+      width:auto;
+     
+    }
+    #img{
+        width:100px;
+        height: 100px;
+        margin-top: 360px;
+    }
+    #name{
+        font-size: 45px;
+         padding-left: 150px;
+         padding-top: 85px;
+    }
+    #info{
+        padding-top: 50px;
+        padding-left: 270px;
+    }
+    #grid{
+        grid-template-columns: auto auto;
+        grid-row: 360px ;
+        grid-gap: 5px;
+        margin-left: -15px;
+    }
+    .butt{
+        
+        padding: 10px 27px;
+        text-align: center;
+        font-size: 16px;
+         background-color:#34495e;
+        margin-left: 0%;
+        margin-right: 15px;
+    }
+    .out{
+        padding: 10px 27px;
+        text-align: center;
+        font-size: 16px;
+        color: #34495e;
+         background-color:white;
+        margin-left: 0%;
+        margin-right: 15px;
+
+    }
+    @media screen and (max-width:480px) {
+        #img{
+            margin-top: 370px;
+            width: 90px;
+            height: 90px;
+            margin-left: 5PX;
+           
+        
+        }
+        #grid{
+            grid-template-columns: auto;
+        }
+        #name{
+            padding-left: 100px;
+            padding-top: 90px;
+            font-size: 35px;
+        }
+        #info{
+           padding-left: 190px;
+           font-size: 20px;
+        }
+        .acc-name{
+            margin-right: 30px;
+        }
+        
+        .butt{
+ 
+       color: white;
+       padding: 10px 15px;
+
+       font-size: 10px;
+ 
+      margin: 80px 15px;
+        }
+        .out{
+            padding: 10px 15px;
+            font-size: 10px;
+            margin: auto;
+            
+            
+        }
+        .con{
+            margin-left: 30px;
+        }
+        
+
+    }
+    @media screen and (max-width:365px){
+        .acc-name{
+            margin-right: 0px;
+        }
+
+    }
+    @media screen and (min-width:650px) and (max-width:820px){
+        #header{
+            width: auto;
+        }
+      #grid  {grid-template-columns: auto auto;
+        grid-row: 360px ;
+        grid-gap: 5px;
+        margin-left: -15px;
+        }
+    }
+    @media screen and (min-width:820px) and (max-width:1000px) {
+        .acc-name{
+            margin-left: 5px;
+            margin-right: 0px;
+            font-size: 1px;
+        }
+    }
+
+}
