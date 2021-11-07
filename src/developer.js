@@ -20,8 +20,7 @@ import {AiFillTwitterCircle} from 'react-icons/ai'
                   <img src={dev} alt="prasanth" id="deve" />
                   < p id="d-name">P.Prasanth Kumar</p>
                   <p class="title">front-end developer</p>
-                  <a><AiFillInstagram/></a><a><AiFillLinkedin/></a><a>< AiFillTwitterCircle /></a>
-                  
+                  <a href="https://www.instagram.com/prasanthpamula15/"><AiFillInstagram/></a><a href="https://www.linkedin.com/in/prasanth-kumar-642468201/"><AiFillLinkedin/></a><a href="https://twitter.com/prasant60586692">< AiFillTwitterCircle /></a>
                   </div>
                 
             </div></div>
