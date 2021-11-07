@@ -248,7 +248,7 @@ top: -10px;}
 
 @media screen and (max-width:365px){
     .acc-name{
-        
+        margin-right: 0px;
     }
 }
 
