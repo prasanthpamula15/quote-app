@@ -4,6 +4,57 @@
     scroll-behavior: smooth;
   
 }
+#footer{
+    position: absolute;
+    margin-bottom: 0px;
+    height: 90px;
+    background-color:#243546 ;
+    width: 100%;
+
+}
+#developer{
+    margin: 0 auto;
+    width: 300px;
+    position: relative;
+    background-color: #ecf0f1;
+    text-align: center;
+}
+#dev-h{
+    text-align: center;
+}#d-name{
+    font-family:'Archivo Narrow' ;
+    font-size: 25px;
+}
+.title{
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+#container{
+    background-color: #ecf0f1;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.card{
+  width: 90px;
+  height: 50px;
+  background-color:white;
+   ;
+    
+    
+    
+}
+#dev-h{
+    font-size: 45px;
+    font-family: 'Archivo Narrow';
+    padding-top:40px ;
+  
+}
+#deve{
+   
+    width: 100%;
+    height: 100%;
+   
+}
+
 #img{
     margin-top: 260px;
      margin-left: 40px;
@@ -109,7 +160,9 @@
 
 
 .details{
+    position: relative;
  display:inline-block;
+
 }
 
 #con{
@@ -173,7 +226,7 @@
     font-family:'Archivo Narrow' ;
     display: inline;
     margin-left: 5px;
-margin-right: 170px;
+
 font-size: 25px;
 top: -10px;}
 
@@ -188,9 +241,14 @@ top: -10px;}
 #cat-select{
     width: auto;
 }
+.font{
+    position: absolute;
+    padding-right: 0px;
+}
+
 @media screen and (max-width:365px){
     .acc-name{
-        margin-right: 0px;
+        
     }
 }
 

@@ -5,6 +5,8 @@ import logo from "./img/profile.jpg";
 import {IoIosArrowDropupCircle} from 'react-icons/io'
 import {IoIosArrowDropdownCircle} from 'react-icons/io'
 import React, { Component } from 'react'
+import Developer from './developer.js';
+import Footer from './footer.js';
 
 export default class App extends Component {
   constructor(props) {
@@ -40,7 +42,10 @@ export default class App extends Component {
     <a class="top-down" href="#bac"> <IoIosArrowDropdownCircle class="top-down"/> </a>
    <div id="category">
      <Content/>
+     <Developer/>
+     <Footer/>
      </div>   
+     
    
            
 </body>

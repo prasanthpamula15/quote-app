@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import "./index.css";
 import Writings from "./Writings";
 import Aboutme from "./Aboutme";
+
+
 class content extends Component {
        constructor(props) {
          super(props)
@@ -28,6 +30,8 @@ class content extends Component {
          <div id="writing">
            {this.state.count}
          </div>
+         
+        
        </div>
         )
         }
