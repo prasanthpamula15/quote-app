@@ -5,7 +5,7 @@ export default class Footer extends Component {
     render() {
         return (
             <div id="footer">
-                <div id="foot-nav"><a className="foot" href="#grid">Poems</a><a className="foot" href="">Quotes</a><a className="foot" href="">Microtales</a><a className="foot" href="">Bio</a></div>
+                <div id="foot-nav"><span className="foot" href="#grid">Poems</span><span className="foot" href="">Quotes</span><span className="foot" href="">Microtales</span><span className="foot" href="">Bio</span></div>
                 <div id="insta"><AiFillInstagram color="white"/>
                 </div>
                 <div id="email"><p className="foot" href>Email:keerkeerthana592@gmail.com</p></div>

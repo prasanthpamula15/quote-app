@@ -19,6 +19,11 @@ import Showmore from './Showmore.js';
             show:<Showmore/>
         })
     }
+    like1 (){
+        this.setState({
+            show:" "
+        })
+    }
      
      
     render() {
@@ -137,11 +142,68 @@ import Showmore from './Showmore.js';
                 </div>
             
             </div>
+            <div className="grid_item">
+                <div ><img className="card" src={image.logo16} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo16} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+           
+                <div className="grid_item">
+                <div ><img className="card" src={image.logo17} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo17} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div><div className="grid_item">
+                <div ><img className="card" src={image.logo18} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo18} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div><div className="grid_item">
+                <div ><img className="card" src={image.logo19} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo19} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div><div className="grid_item">
+                <div ><img className="card" src={image.logo20} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo20} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={image.logo21} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo21} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={image.logo22} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={image.logo22} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+
+
          
             </div>
             <div className="more">
                 <button className="show" onClick=
-                {() => this.like()}>Showmore</button>
+                {() => this.like()}>Show More</button> <button className="show" onClick=
+                {() => this.like1()}>Show Less</button>
                  
             </div>
             <div >

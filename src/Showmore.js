@@ -9,13 +9,6 @@ export default class Showmore extends Component {
         return (
             <div id="grid">
                 <div className="grid_item">
-                <div ><img className="card" src={image.logo16} alt="logo"></img></div>
-                <div className="details">
-                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
-                <a class="download_button" href={image.logo16} download> <FaDownload size="30px" color="black" className="download"/></a>
-                </div>
-            
-            </div><div className="grid_item">
                 <div ><img className="card" src={image.logo17} alt="logo"></img></div>
                 <div className="details">
                 <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
