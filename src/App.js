@@ -38,8 +38,8 @@ export default class App extends Component {
      <p id="name">Keerthana Suresh</p>
       <p id="info">-A writer and a poet</p>
     </div>
-    <a class="top-down" href="#bac"> <IoIosArrowDropupCircle class="top-down"  /> </a><br/><br/>
-    <a class="top-down" href="#bac"> <IoIosArrowDropdownCircle class="top-down"/> </a>
+    <div><a class="top-down" href="#bac"> <IoIosArrowDropupCircle size="25px"  /> </a>
+    <a class="top-down1" href="#bac"> <IoIosArrowDropdownCircle size="25px"/> </a></div>
    <div id="category">
      <Content/>
      <Developer/>

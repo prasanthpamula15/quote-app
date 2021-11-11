@@ -261,6 +261,15 @@ top: -10px;}
    height: 30px;
    margin-left: 10px;
    color: #34495e;
+   margin-bottom: 30px;
+}
+.top-down1{
+    position: fixed;
+   width:30px;
+   height: 30px;
+   margin-left: 10px;
+   color: #34495e;
+   top: 640px;
 }
 #cat-select{
     width: auto;
@@ -320,7 +329,25 @@ top: -10px;}
 
 @media screen and (max-width:365px){
     .acc-name{
-        padding-right: 0%;
+       font-size: 22px;
+    }
+   
+    .top-down{
+        position: fixed;
+       width:30px;
+       height: 30px;
+       margin-left: 10px;
+       color: #34495e;
+       margin-bottom: 30px;
+       top: 510px;
+    }
+    .top-down1{
+        position: fixed;
+       width:30px;
+       height: 30px;
+      margin-left: 10px;
+       color: #34495e;
+       top: 550px;
     }
 }
 
