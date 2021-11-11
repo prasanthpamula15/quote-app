@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import "./index.css";
 import Poems from './Poems';
 import Quotes from './Quotes';
-import Microtale from './Quotes';
+import Microtale from './Microtale';
 
 export default class Writings extends Component {
     constructor(props){

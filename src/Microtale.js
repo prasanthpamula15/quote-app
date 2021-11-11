@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
-import {BsHeart} from 'react-icons/bs'
-import {FaShareAlt} from 'react-icons/fa'
+import logo from "./img/profile.jpg";
 import {FaDownload} from 'react-icons/fa'
+import "./index.css"
+import image from './m-images'
 
 export default class Microtale extends Component {
     render() {
@@ -47,10 +48,19 @@ export default class Microtale extends Component {
                    <div ><img className="card" src={image.logo5} alt="logo"></img></div>
                    <div className="details">
                    <img src={logo} className="card-acc" alt="logo" /><p className="acc-name">Keerthana_Suresh</p>
-                   <a class="download_button" href={image.logo7} download> <FaDownload size="30px" color="black" className="download"/></a>
+                   <a class="download_button" href={image.logo5} download> <FaDownload size="30px" color="black" className="download"/></a>
                    </div>
                
                </div>
+               <div className="grid_item">
+                   <div ><img className="card" src={image.logo6} alt="logo"></img></div>
+                   <div className="details">
+                   <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                   <a class="download_button" href={image.logo6} download> <FaDownload size="30px" color="black" className="download"/></a>
+                   </div>
+               
+               </div>
+
                <div className="grid_item">
                    <div ><img className="card" src={image.logo7} alt="logo"></img></div>
                    <div className="details">
