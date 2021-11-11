@@ -25,7 +25,7 @@ export default class aboutme extends Component {
                 </div>
               
           </div>
-          <div id="bio" > <p  id="bio-text"><FaQuoteLeft id="quote"/>  I'm keerthana hailing from chittoor district, Andhra pradesh. <br/>Basically I'm an engineering student by profession and a writer by passion. I've co-authored <br/> 20+ poetry anthologies.  I love to weave poems with the feelings existing around me.<br/> You can reach me on instagram with the handle keerthana__suresh_</p></div>
+          <div id="bio" > <p  id="bio-text"><FaQuoteLeft id="quote"/>  I'm keerthana hailing from chittoor district, Andhra pradesh. Basically I'm an engineering student by profession and a writer by passion. I've co-authored  20+ poetry anthologies.  I love to weave poems with the feelings existing around me.You can reach me on instagram with the handle keerthana__suresh_</p></div>
           </div>
         )
     }

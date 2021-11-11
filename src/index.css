@@ -331,6 +331,14 @@ top: -10px;}
     .acc-name{
        font-size: 22px;
     }
+    #bio{
+     margin-left: -30px;
+     margin-top: 15px;
+    }
+    #bio-text{
+        font-size: 15px;
+      
+    }
    
     .top-down{
         position: fixed;
@@ -361,6 +369,14 @@ top: -10px;}
        
     
     }
+    #bio{
+        margin-left: -30px;
+        margin-top: 15px;
+       }
+       #bio-text{
+           font-size: 20px;
+         
+       }
     #grid{
         grid-template-columns: auto;
     }
@@ -406,6 +422,14 @@ top: -10px;}
       width:auto;
      
     }
+    #bio{
+        margin-left: -30px;
+        margin-top: 15px;
+       }
+       #bio-text{
+           font-size: 25px;
+         
+       }
     #img{
         width:100px;
         height: 100px;
