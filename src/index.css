@@ -474,4 +474,7 @@ top: -10px;}
     #grid{
         grid-template-columns: auto auto;
     }
+    .acc-name{
+        font-size: 22px;
+    }
 }
