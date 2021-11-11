@@ -6,7 +6,7 @@ import {FaDownload} from 'react-icons/fa'
 export default class Microtale extends Component {
     render() {
         return (
-          
+          <div id="m-grid"> 
                 <div id="grid">
                
                   <div className="grid_item">
@@ -21,6 +21,7 @@ export default class Microtale extends Component {
                </div>
                <div class="grid_item">2</div>
                <div class="grid_item">3</div>
+            </div>
             </div>
         )
     }
