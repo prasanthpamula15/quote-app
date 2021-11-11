@@ -610,6 +610,703 @@ export default class Quotesmore extends Component {
                 </div>
             
             </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo98} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo98} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo99} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo99} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo100} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo100} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo101} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo101} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo102} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo102} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo103} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo103} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo104} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo104} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo105} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo105} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo160} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo106} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo107} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo107} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo108} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo109} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo110} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo110} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo111} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo111} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo112} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo112} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo113} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo113} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo114} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo114} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo115} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo115} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo116} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo116} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo117} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo117} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo118} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo118} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo119} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo111} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo112} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo112} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo113} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo113} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo114} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo114} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo115} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo115} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo116} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo116} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo117} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo117} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo118} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo119} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo120} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo120} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo121} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo121} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo122} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo122} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo123} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo123} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo124} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo124} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo125} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo125} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo126} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo126} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo127} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo127} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo128} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo128} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo129} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo129} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo130} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo130} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo131} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo131} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo132} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo132} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo133} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo133} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo134} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo134} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo135} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo135} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo136} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo136} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo137} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo137} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo138} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo138} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo139} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo139} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo140} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo140} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo141} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo141} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo142} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo142} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo143} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo143} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo144} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo144} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo145} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo145} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo146} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo146} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo147} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo147} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo148} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo148} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo149} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo149} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo150} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo150} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo151} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo151} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo152} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo152} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo153} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo153} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo154} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo154} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo155} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo155} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo156} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo156} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo157} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo158} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo158} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo158} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo159} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo159} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo160} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo160} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo161} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo162} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo163} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo163} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo164} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo164} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo165} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo165} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo166} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo166} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo167} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo167} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo168} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo168} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo169} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo169} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo170} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo170} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo171} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo171} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo172} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo172} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo173} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo173} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo174} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo174} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo175} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo175} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo176} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo176} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo177} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo177} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo178} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo178} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
+            <div className="grid_item">
+                <div ><img className="card" src={quotes.logo179} alt="logo"></img></div>
+                <div className="details">
+                <img src={logo} className="card-acc" alt="logo"/><p className="acc-name">Keerthana_Suresh</p>
+                <a class="download_button" href={quotes.logo179} download> <FaDownload size="30px" color="black" className="download"/></a>
+                </div>
+            
+            </div>
             </div>
         )
         }
