@@ -26,7 +26,7 @@ export default class Microtale extends Component {
    }
     render() {
         return (
-            <div id="grid">
+            <div> <div id="grid">
                
             <div className="grid_item">
                 <div ><img className="card" alt="logo" src={quotes.logo1}></img></div>
@@ -192,17 +192,24 @@ export default class Microtale extends Component {
             
             </div>
             
-            <div className="more">
-                <button className="show" onClick=
-                {() => this.like()}>Show More</button> <button className="show" onClick=
-                {() => this.like1()}>Show Less</button>
-                 
-            </div>
-            <div >
-            {this.state.show}
-            </div>
+
+
             
+             
             </div>
+             <div className="more">
+             <button className="show" onClick=
+             {() => this.like()}>Show More</button> <button className="show" onClick=
+             {() => this.like1()}>Show Less</button>
+              
+         </div>
+         <div >
+         {this.state.show}
+         </div>
+         </div>
+            
+            
+            
         )
     }
 }
