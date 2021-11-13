@@ -297,11 +297,8 @@ top: -10px;}
   color: white;
  
 }
-#insta{
+#follow{
     text-align: center;
-    margin: 0%;
-    font-size: 30px;
-
 }
 #email{
     text-align: center;
@@ -324,6 +321,14 @@ top: -10px;}
  margin-top:20px ;
  margin-right: 30px;
  text-align: center;
+}
+#yourquote{
+    display: inline;
+    font-size: 20px;
+    color: #ffff;
+    text-align: center;
+    margin-left: 5px;
+
 }
 
 

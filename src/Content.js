@@ -11,7 +11,8 @@ class content extends Component {
          this.state = {
             count: <Writings/>,
             style: "link",
-            next: "active"
+            next: "active",
+          
           
          }
        }
@@ -25,7 +26,7 @@ class content extends Component {
          <ul >
             <li id="first_item" onClick={() => this.handleclick1()}><a className={this.state.next} href="#none">My writings</a>
             </li>
-            <li onClick={() => this.handleclick()}><a href="#none" className={this.state.style}>About Me</a></li>
+            <li onClick={() => this.handleclick()}><a href="#none" className={this.state.style}>Bio</a></li>
          </ul>
          <div id="writing">
            {this.state.count}

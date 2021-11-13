@@ -2,8 +2,7 @@ import React, { Component } from 'react'
 import logo from './profile.jpg'
 import './index.css'
 import {AiFillInstagram }from 'react-icons/ai'
-import { AiFillLinkedin} from 'react-icons/ai'
-import {AiFillTwitterCircle} from 'react-icons/ai'
+
 import {FaQuoteLeft} from 'react-icons/fa'
 
 export default class aboutme extends Component {
@@ -18,10 +17,10 @@ export default class aboutme extends Component {
 <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet"></link>
               
               <div class="card">
-                <img src={logo} alt="prasanth" id="deve" />
+                <img src={logo} alt="Keerthana" id="deve" />
                 < p id="d-name">Keerthana_Suresh</p>
                 <p class="title">a writer and a poet</p>
-                <a href="https://www.instagram.com/prasanthpamula15/"><AiFillInstagram/></a><a href="https://www.linkedin.com/in/prasanth-kumar-642468201/"><AiFillLinkedin/></a><a href="https://twitter.com/prasant60586692">< AiFillTwitterCircle /></a>
+                <a href="https://www.instagram.com/keerthana__suresh_/"><AiFillInstagram/></a>
                 </div>
               
           </div>

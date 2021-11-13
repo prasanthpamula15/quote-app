@@ -14,7 +14,8 @@ export default class App extends Component {
   
     this.state = {
        top:"",
-       down:""
+       down:"",
+       val: "click"
     }
   }
   
@@ -41,9 +42,9 @@ export default class App extends Component {
     <div><a class="top-down" href="#bac"> <IoIosArrowDropupCircle size="25px"  /> </a>
     <a class="top-down1" href="#bac"> <IoIosArrowDropdownCircle size="25px"/> </a></div>
    <div id="category">
-     <Content/>
+     <Content />
      <Developer/>
-     <Footer/>
+     <Footer />
      </div>   
      
    
