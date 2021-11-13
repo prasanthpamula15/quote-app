@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
-import logo from './profile.jpg'
 import './index.css'
-import {AiFillInstagram }from 'react-icons/ai'
-
 import {FaQuoteLeft} from 'react-icons/fa'
 
 export default class aboutme extends Component {
