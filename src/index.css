@@ -287,22 +287,40 @@ top: -10px;}
     font-size: 60px;
     margin-right: 30px;
 }
-#foot-nav{
-    text-align: center;
-    padding-top: 15px;
-}
+
 .foot{
   padding-right: 20px;
   text-decoration: none;
   color: white;
  
 }
-#follow{
+.foot{position: relative;
+    text-align: center;
+margin-top: 10px;
+}
+#foot-f{
+    font-size: 20px;
+    font-family:'Archivo Narrow'  ;
+    color: #ffff;
     text-align: center;
 }
-#email{
+.follow{
     text-align: center;
+    margin: auto;
 }
+.follow-butt{
+    text-decoration: none;
+    border:none;
+    color:#34495e;
+    padding: 10px 32px;
+    text-align: center;
+    font-size: 16px;
+    background-color:#ffff;
+    font-family:'Amatic SC' ;
+    margin-right: 10px;
+    
+}
+
 .show_cls{
     display: block;
 }
@@ -322,14 +340,7 @@ top: -10px;}
  margin-right: 30px;
  text-align: center;
 }
-#yourquote{
-    display: inline;
-    font-size: 20px;
-    color: #ffff;
-    text-align: center;
-    margin-left: 5px;
 
-}
 
 
 @media screen and (max-width:365px){
