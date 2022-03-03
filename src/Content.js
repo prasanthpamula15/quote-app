@@ -22,6 +22,8 @@ class content extends Component {
       
         return (
         <div id="bac">
+               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7608495330013701"
+     crossorigin="anonymous"></script>
 
          <ul >
             <li id="first_item" onClick={() => this.handleclick1()}><a className={this.state.next} href="#none">My writings</a>
